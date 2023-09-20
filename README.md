@@ -1,7 +1,2 @@
 # r
-
-
-
-jncsoiueq bivue
-
-k jeflovje vr wjenjwnfjw
+Learing Javascript from basics
